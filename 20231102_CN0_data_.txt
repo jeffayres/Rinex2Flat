@@ -1,0 +1,2 @@
+% RINEX Date: 20170306, Type: OBSERVATION DATA
+% Epoch, PRN, Sig, CNO
